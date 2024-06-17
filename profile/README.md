@@ -10,11 +10,22 @@ planning and opportunities to share your trips with your friends.
 
 The application allows you to mark places you've visited, share photos and notes about your trips, and view routes and posts from friends. It also offers a convenient display of your travels on a map, and includes functionality for searching for interesting places nearby.
 
-### READMEs
+### Components of application
+
+Application consist of server and Android parts. To run application you should download server part and Android part of application. 
+
+* [GoodTripAndroid](https://github.com/GoodTripProject/GoodTripAndroid)
+* [GoodTripServer](https://github.com/GoodTripProject/GoodTripServer)
+
+### Detailed descriptions for components
 
 You can see detailed descriptions for Android and server parts of application and instructions for deployment in READMEs.
-* [README for Android](https://github.com/GoodTripProject/GoodTripAndroid/blob/main/README.md) 
-* [README for Server](https://github.com/GoodTripProject/GoodTripServer/blob/main/README.md) 
+* [README for Android](https://github.com/GoodTripProject/GoodTripAndroid/blob/main/README.md)
+* [README for Server](https://github.com/GoodTripProject/GoodTripServer/blob/main/README.md)
+
+### Application architecture
+
+![img.png](assets/img.png)
 
 ### Authors
 
@@ -22,7 +33,3 @@ You can see detailed descriptions for Android and server parts of application an
 * [Daniil Neykov](https://github.com/cowboymalboro1884)
 * [Maksim Shtein](https://github.com/MaksimkaSH)
 
-
-### Application architecture
-
-![img.png](assets/img.png)
