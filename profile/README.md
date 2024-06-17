@@ -3,7 +3,7 @@
 ### About
 
 Course project about planning trips with social interaction. 
-The project consists of server on Kotlin and Java with Spring and Android application.
+The project consists of back-end on Kotlin and Java with Spring and Android application.
 
 Android application has a lot of features for trip
 planning and opportunities to share your trips with your friends.
@@ -12,14 +12,14 @@ The application allows you to mark places you've visited, share photos and notes
 
 ### Components of application
 
-Application consist of server and Android parts. To run application you should download server part and Android part of application. 
+Application consist of back-end and Android parts. To run application you should download back-end part and Android part of application. 
 
 * [GoodTripAndroid](https://github.com/GoodTripProject/GoodTripAndroid)
 * [GoodTripServer](https://github.com/GoodTripProject/GoodTripServer)
 
 ### Detailed descriptions for components
 
-You can see detailed descriptions for Android and server parts of application and instructions for deployment in READMEs.
+You can see detailed descriptions for Android and back-end parts of application and instructions for deployment in READMEs.
 * [README for Android](https://github.com/GoodTripProject/GoodTripAndroid/blob/main/README.md)
 * [README for Server](https://github.com/GoodTripProject/GoodTripServer/blob/main/README.md)
 
