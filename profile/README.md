@@ -27,6 +27,18 @@ You can see detailed descriptions for Android and back-end parts of application 
 
 ![img.png](assets/img.png)
 
+### Screenshots 
+
+<img src="assets/login_screen.jpg" width="200" alt=""> 
+<img src="assets/screen1.jpg" width="200" alt="">
+<img src="assets/screen2.jpg" width="200" alt="">
+<img src="assets/screen3.jpg" width="200" alt="">
+<img src="assets/screen4.jpg" width="200" alt="">
+<img src="assets/screen5.jpg" width="200" alt="">
+<img src="assets/screen6.jpg" width="200" alt="">
+<img src="assets/screen7.jpg" width="200" alt="">
+<img src="assets/screen8.jpg" width="200" alt="">
+
 ### Authors
 
 * [Andrei Bolotskii](https://github.com/andrewbolotsky)
