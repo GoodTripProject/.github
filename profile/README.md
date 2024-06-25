@@ -44,6 +44,11 @@ You can see detailed descriptions for Android and back-end parts of application 
 <img src="assets/screen8.jpg" width="200" alt="">
 </p>
 
+### Demovideo
+
+[![GoodTrip Demovideo](https://img.youtube.com/vi/EDtKcL7xMzw/0.jpg)](https://www.youtube.com/watch?v=EDtKcL7xMzw)
+
+
 ### Authors
 
 * [Andrei Bolotskii](https://github.com/andrewbolotsky)
